@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskProject</string>
+    <string name="rs">\u20B9</string>
+    <string name="high_risk">High Risk</string>
+    <string name="moderate_risk">Moderate Risk</string>
+    <string name="low_risk">Low Risk</string>
+    <string name="expand">Expand/Collapse ActionBar</string>
+    <string name="paralax" >Parallax</string>
+</resources>
